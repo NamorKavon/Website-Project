@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(239, 255, 16);
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.class-for-index pre {
+    color: rgb(255, 166, 0);
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.class-for-index h1 {text-align: center;}
+.class-for-index pre {text-align: left;}
+
+.class-for-12 pre {
+    color: rgb(255, 0, 0);
+    font-size: 14px;
+    font-weight: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.class-for-12 pre {text-align: left;}
