@@ -1,24 +1,447 @@
-h1 {
-    color: rgb(239, 255, 16);
-    font-size: 50px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+/* Navigation bar */
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.class-for-index pre {
-    color: rgb(255, 166, 0);
-    font-size: 14px;
-    font-weight: 800;
+nav {
+    background-color: rgba(221, 107, 0, 0.288);
+    margin: 0;
+    overflow: hidden;
 }
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+ 
+nav > ul > li > a {
+    color: rgb(255, 255, 255);
+    background-color:rgba(0, 0, 0, 0.63);
+    display: block;
+    line-height: 2em;
+    padding: 0.6em 0.6em;
+    text-decoration: none;
+}
+/* ------------------------------------------------------------------------ */
+
+
+/* Header for all pages */
+h1  {
+    color: rgb(239, 255, 16);
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+/* Main text colour for index page */
 
 .class-for-index h1 {text-align: center;}
-.class-for-index pre {text-align: left;}
 
-.class-for-12 pre {
-    color: rgb(255, 0, 0);
+.class-for-index p {
+    color: rgb(255, 166, 0);
+    font-size: 16px;
+    font-weight: 800;
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 0px;
+    margin-top: -1em;
+}
+
+.class-for-index p1 {
+    color: rgb(255, 166, 0);
+    font-size: 16px;
+    font-weight: 800;
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 0px;
+    margin-top: 9em;
+}
+
+
+/* ---------------------------------------------------- */
+
+/* Unit 1: Questions 1&2 */
+
+
+.class-for-1 h1 {text-align: center;}
+    
+
+/* Header for Question 1 */
+.class-for-1 p2 {
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 90px;
+    margin-top: 0em;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-1 p3 {
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 150px;
+    margin-top: 0em;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-1 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-1 p {
+    color: rgb(255, 166, 0);
     font-size: 14px;
-    font-weight: 50;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 80px;
+    margin-top: 2em;
 
 }
 
-.class-for-12 pre {text-align: left;}
+
+.class-for-1 p1 {
+    width: 430px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 150px;
+    margin-top: 8em;
+    color: rgb(255, 166, 0);
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+/* Unit 1: Questions 3 and 4 */
+
+.class-for-2 h1 {text-align: center;}
+
+/* Header for Question 1 */
+.class-for-2 p2 {
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 90px;
+    margin-top: 0em;
+    font-size: 20px;
+}
+
+.class-for-2 p3 {
+    width: 430px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 100px;
+    margin-top: 0em;
+    font-size: 20px;
+}
+
+.class-for-2 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-2 p {
+    color: rgb(255, 123, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 90px;
+    margin-top: 6em;
+}
+
+
+.class-for-2 p1 {
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 100px;
+    margin-top: 6em;
+    color: rgb(255, 123, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+/* ------------------------------------------------- */
+
+.class-for-3 h1 {text-align: center;}
+
+.class-for-3 p2 {
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 80px;
+    margin-top: 0em;
+    font-size: 20px;
+}
+
+.class-for-3 p3 {
+    width: 430px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 80px;
+    margin-top: 0em;
+    font-size: 20px;
+}
+
+.class-for-3 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-3 p {
+    color: rgb(255, 123, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 540px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 80px;
+    margin-top: 6em;
+}
+
+
+.class-for-3 p1 {
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 60px;
+    margin-top: 8em;
+    color: rgb(255, 123, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+/* --------------------------------------------- */
+
+.class-for-4 h1 {text-align: center;}
+
+.class-for-4 p1 {
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 0px;
+    margin-top: 0em;
+    font-size: 20px;
+}
+
+.class-for-4 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-4 p {
+    color: rgb(255, 123, 0);
+    font-size: 12px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 950x;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-left: 20px;
+    margin-top: 4em;
+}
+
+/* ------------------------------------------------- */
+
+.class-for-5 h1 {text-align: center;}
+
+.class-for-5 p5 {
+    width: 740px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: -120px;
+    margin-top: 0em;
+    font-size: 20px;
+    color: white
+}
+
+.class-for-5 p6 {
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 100px;
+    margin-top: 0em;
+    font-size: 20px;
+    color: white
+}
+
+.class-for-5 p7 {
+    width: 740px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 150px;
+    margin-top: 17em;
+    font-size: 22px;
+    color: white
+}
+
+.class-for-5 p8 {
+    width: 740px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-left: 100px;
+    margin-top: 1em;
+    font-size: 40;
+} */
+
+.class-for-5 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-5 p {
+    color: rgb(255, 136, 0);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 10px;
+    margin-top: 2em;
+}
+
+.class-for-5 p1 {
+    color: rgb(255, 9, 9);
+    font-size: 18px;
+    font-weight: 300;
+    font-family: sans-serif;
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 120px;
+    margin-top: 2em;
+}
+
+.class-for-5 p2 {
+    color: rgb(255, 166, 0);
+    font-size: 18px;
+    font-weight: 300;
+    font-family: sans-serif;
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: -50px;
+    margin-top: 25em;
+}
+
+/* ------------------------------------------------- */
+
+.class-for-6 h1 {text-align: center;}
+
+.class-for-6 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-6 p {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 90px;
+    margin-top: 2em;
+}
+
+.class-for-6 p1 {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 900px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 90px;
+    margin-top: 2em;
+}
+
+.class-for-6 p2 {
+    color: rgb(255, 136, 0);
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 90px;
+    margin-top: 8em;
+}
+
+.class-for-6 p3 {
+    color: rgb(255, 9, 9);
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 90px;
+    margin-top: 6em;
+}
