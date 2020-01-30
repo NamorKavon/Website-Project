@@ -44,9 +44,16 @@ h1  {
 
 .class-for-index h1 {text-align: center;}
 
+.class-for-index {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
 .class-for-index p {
     color: rgb(255, 166, 0);
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 800;
     width: 540px;
     height: 100px;
@@ -58,7 +65,7 @@ h1  {
 
 .class-for-index p1 {
     color: rgb(255, 166, 0);
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 800;
     width: 540px;
     height: 100px;
@@ -310,7 +317,7 @@ h1  {
     height: 100px;
     position: absolute;
     left: 50%;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-top: 0em;
     font-size: 20px;
     color: white
@@ -358,16 +365,16 @@ h1  {
 }
 
 .class-for-5 p1 {
-    color: rgb(255, 9, 9);
+    color: rgb(255, 166, 0);
     font-size: 18px;
     font-weight: 300;
     font-family: sans-serif;
-    width: 800px;
+    width: 550px;
     height: 100px;
     position: absolute;
     left: 50%;
-    margin-left: 120px;
-    margin-top: 2em;
+    margin-left: 50px;
+    margin-top: 3em;
 }
 
 .class-for-5 p2 {
@@ -375,7 +382,7 @@ h1  {
     font-size: 18px;
     font-weight: 300;
     font-family: sans-serif;
-    width: 1000px;
+    width: 800px;
     height: 100px;
     position: absolute;
     right: 50%;
@@ -396,41 +403,41 @@ h1  {
 
 .class-for-6 p {
     color: rgb(255, 255, 255);
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 400;
     font-family: sans-serif;
-    width: 800px;
+    width: 600px;
     height: 100px;
     position: absolute;
     right: 50%;
-    margin-right: 90px;
-    margin-top: 2em;
+    margin-right: 20px;
+    margin-top: 0em;
 }
 
 .class-for-6 p1 {
     color: rgb(255, 255, 255);
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 400;
     font-family: sans-serif;
     width: 900px;
     height: 100px;
     position: absolute;
     left: 50%;
-    margin-left: 90px;
-    margin-top: 2em;
+    margin-left: 50px;
+    margin-top: 0em;
 }
 
 .class-for-6 p2 {
     color: rgb(255, 136, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     font-family: sans-serif;
-    width: 800px;
+    width: 600px;
     height: 100px;
     position: absolute;
     right: 50%;
-    margin-right: 90px;
-    margin-top: 8em;
+    margin-right: 20px;
+    margin-top: 6em;
 }
 
 .class-for-6 p3 {
@@ -438,10 +445,304 @@ h1  {
     font-size: 18px;
     font-weight: 600;
     font-family: sans-serif;
-    width: 800px;
+    width: 500px;
     height: 100px;
     position: absolute;
     left: 50%;
-    margin-left: 90px;
+    margin-left: 100px;
+    margin-top: 3em;
+}
+
+/* ---------------------------------------------- */
+
+.class-for-7 h1 {text-align: center;}
+
+
+.class-for-7 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-7 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 0em;
+}
+
+.class-for-7 p1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 50px;
+    margin-top: 0em;
+}
+
+.class-for-7 p2 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 5em;
+}
+
+.class-for-7 p3 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 60px;
+    margin-top: 4em;
+}
+
+/* --------------------------------------------------- */
+
+.class-for-8 h1 {text-align: center;}
+
+
+.class-for-8 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-8 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 0em;
+}
+
+.class-for-8 p1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 50px;
+    margin-top: 0em;
+}
+
+.class-for-8 p2 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
     margin-top: 6em;
+}
+
+.class-for-8 p3 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 60px;
+    margin-top: 2em;
+}
+
+/* ----------------------------------------------- */
+
+.class-for-8 h1 {text-align: center;}
+
+
+.class-for-9 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-9 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 0em;
+}
+
+.class-for-9 p1 {
+    color: rgb(255, 136, 0);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 1100px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: -500px;
+    margin-top: 4em;
+}
+
+/* ------------------------------------------ */
+
+.class-for-10 h1 {text-align: center;}
+
+
+.class-for-10 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-10 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 0em;
+}
+
+.class-for-10 p1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 50px;
+    margin-top: 0em;
+}
+
+.class-for-10 p2 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 6em;
+}
+
+.class-for-10 p3 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 60px;
+    margin-top: 2em;
+}
+
+/* ---------------------------------------- */
+
+.class-for-11 h1 {text-align: center;}
+
+
+.class-for-11 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif
+}
+
+.class-for-11 p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 0em;
+}
+
+.class-for-11 p1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 50px;
+    margin-top: 0em;
+}
+
+.class-for-11 p2 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    margin-right: 20px;
+    margin-top: 6em;
+}
+
+.class-for-11 p3 {
+    color: rgb(255, 136, 0);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: 60px;
+    margin-top: 2em;
 }
